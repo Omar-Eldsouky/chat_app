@@ -1,6 +1,3 @@
-Certainly, here's the complete README.md content as a single block:
-
-```markdown
 # Chat Application
 
 Welcome to our Flask-based chat application! This application allows users to register, create groups, send messages in real-time, and more.
@@ -63,7 +60,3 @@ If you encounter any issues or have questions about the application, please feel
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-```
-
-Feel free to copy and paste this block directly into your README.md file. Make sure to replace placeholders like `yourusername` with appropriate values.
