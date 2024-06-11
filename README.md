@@ -22,13 +22,13 @@ To run the application locally, follow these steps:
 
 2. **Install Dependencies**: Navigate to the project directory and install the required dependencies using pip:
    ```
-   cd chat-application
+   cd chat-app
    pip install -r requirements.txt
    ```
 
 3. **Run the Flask Application**: Start the Flask server by running the following command:
    ```
-   python app.py
+   python chat_rooms.py
    ```
 
 4. **Access the Application**: Once the server is running, access the application in your web browser at [http://localhost:5000/](http://localhost:5000/).
